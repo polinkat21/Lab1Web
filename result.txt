@@ -1,0 +1,16 @@
+.
+./Видео
+./Загрузки
+./Общедоступные
+./Документы
+./.config/goa-1.0
+./.config/nautilus
+./Шаблоны
+./.cache/fontconfig
+./.local/share/gnome-settings-daemon
+./.local/share/flatpak
+./.local/share/flatpak/db
+./.local/share/zeitgeist/fts.index
+./Музыка
+./Рабочий стол
+./Изображения
